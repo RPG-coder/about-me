@@ -5,9 +5,21 @@
 <p align='justify'>
     Passionate to work in a company with an aim to gain knowledge and experience in the field of Machine Learning.
 </p>
+
+<!--
+<h2>Work Experience</h2>
+<table border="0">
+    <thead>
+       <tr><th>Title</th><th>Role</th><th>Start year to End Year</th></tr> 
+    </thead>
+    <tbody>
+        <tr><td>(Title)</td> <td>(Role)</td> <td>(Year)</td></tr> 
+    </tbody>
+</table>
+-->
+
 <!--
 <h2>CERTIFICATION</h2>
-
 <table border="0">
     <thead>
        <tr><th>Title</th><th>Score</th><th>Start year to End Year</th></tr> 
