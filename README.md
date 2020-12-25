@@ -1,4 +1,4 @@
-### Hi my name is 
+## Hi my name is 
 <h1 align='center'>RAHUL GAUTHAM PUTCHA</h1>
 <hr/>
 <h2>ABOUT ME</h2>
