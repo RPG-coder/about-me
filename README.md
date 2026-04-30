@@ -92,7 +92,7 @@ New Jersey Institute of Technology (NJIT), 2021
 ## 🤝 Connect
 - LinkedIn: *https://www.linkedin.com/in/rahul-putcha*  
 - GitHub: https://github.com/RPG-coder  
-- Email (Marketing): https://www.rahulgputcha.com
+- Email (for Product Marketing & Jobs only): rahulgputcha@gmail.com
 - Personal Website: https://www.rahulgputcha.com  
 
 ---
