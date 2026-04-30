@@ -1,4 +1,4 @@
-# Rahul Putcha  
+# Rahul Gautham Putcha  
 **Senior Software Engineer (Cloud & Edge AI Platforms)**  
 AWS & Azure Certified | Ex-Intel | MS CS @ NJIT  
 
@@ -6,7 +6,9 @@ AWS & Azure Certified | Ex-Intel | MS CS @ NJIT
 
 ## 🚀 Professional Summary
 Senior Software Engineer with 4+ years of experience building **cloud-native, data-driven, and edge AI platforms**.  
+
 Expertise in **React, TypeScript, Node.js, and AWS/Azure**, with strong focus on **micro-frontend architectures, ETL pipelines, and scalable distributed systems**.  
+
 Proven ability to transform real-time and batch data into actionable insights. Certified in **AWS Data Engineering and Generative AI**.
 
 ---
@@ -21,24 +23,13 @@ React, Next.js, Node.js, Express.js, Spring Boot, PHP, HTML, CSS, jQuery
 Micro-Frontends (Webpack Module Federation), REST APIs, GraphQL  
 
 ### Cloud & DevOps
-AWS (S3, EC2, RDS, Lambda, CloudWatch, IAM)  
-Microsoft Azure (App Services, Functions)  
-Docker, Kubernetes, Helm, Jenkins, Git, GitHub, GitHub Actions, CI/CD Pipelines  
-Terraform, Nginx  
+AWS (S3, EC2, RDS, Lambda, CloudWatch, IAM), Microsoft Azure (App Services, Functions), Docker, Kubernetes, Helm, Jenkins, Git, GitHub, GitHub Actions, CI/CD Pipelines, Terraform, Nginx  
 
 ### Data Engineering & AI
-Apache Spark, Kafka, Airflow, Hadoop, Flink  
-ETL/ELT Pipelines, Data Lakes, Data Warehousing  
-PostgreSQL, MySQL, MongoDB, Redis  
-NumPy, Pandas, Scikit-learn, PyTorch  
-LangChain, LangGraph, Vector DB (FAISS), OpenAI APIs  
+Apache Spark, Kafka, Airflow, Hadoop, Flink, ETL/ELT Pipelines, Data Lakes, Data Warehousing, PostgreSQL, MySQL, MongoDB, Redis, NumPy, Pandas, Scikit-learn, PyTorch, LangChain, LangGraph, Vector DB (FAISS), OpenAI APIs  
 
 ### Testing, Monitoring & Tools
-Cypress, Jest, React Testing Library  
-Webpack, Babel  
-Prometheus, Grafana, ELK Stack  
-Observability & Logging  
-Jira, Confluence, Agile/Scrum  
+Cypress, Jest, React Testing Library, Webpack, Babel, Prometheus, Grafana, ELK Stack, Observability & Logging, Jira, Confluence, Agile/Scrum  
 
 ---
 
@@ -48,17 +39,7 @@ Jira, Confluence, Agile/Scrum
 **Intel Corporation**, Parsippany, NJ  
 Jun 2022 – Jul 2025  
 
-- Built React platform for Edge Orchestrator managing infrastructure, clusters, AI workloads  
-  Enabled workflows: onboarding, provisioning, deployments, alert monitoring  
-
-- Architected reusable UI components (TypeScript, Atomic Design) with 75%+ test coverage (Cypress),  
-  accelerating delivery via Docker and Kubernetes  
-
-- Integrated backend APIs (Go, Python, Prometheus/QL) to process real-time telemetry  
-  into insights for observability, maintenance, and operational decisions  
-
-- Resolved 50+ bugs and SDL issues quarterly, enhancing platform stability  
-  and mentored engineers, accelerating onboarding and impact  
+Built and maintained a React-based micro-frontend platform for Intel’s Edge Orchestrator, enabling management of infrastructure, clusters, deployments, and AI workloads. Developed scalable UI components using TypeScript and Atomic Design with 75%+ test coverage (Cypress), and improved delivery through Docker-based containerization and Kubernetes deployments. Integrated backend APIs (Go, Python, Prometheus/QL) to process real-time device telemetry into insights for observability, maintenance, and operational decisions. Resolved 50+ critical bugs and SDL issues quarterly, enhancing platform stability, and mentored engineers to accelerate onboarding and contributions.
 
 ---
 
@@ -66,13 +47,7 @@ Jun 2022 – Jul 2025
 **New Jersey Institute of Technology (NJIT)**, Newark, NJ  
 Oct 2021 – Mar 2022  
 
-- Built AWS-based full-stack analytics platform (React, TypeScript, Node.js)  
-  to visualize pharmaceutical data trends  
-
-- Designed containerized architecture using Docker: frontend (S3), backend (EC2), database (RDS)  
-
-- Developed backend services and ETL pipelines to ingest patient datasets into data lake  
-  enabling scalable healthcare analytics  
+Developed an AWS-based full-stack analytics platform using React, TypeScript, and Node.js to visualize pharmaceutical data trends. Designed a containerized architecture with Docker, deploying frontend on S3, backend on EC2, and MySQL on RDS. Engineered backend services and ETL pipelines to ingest patient datasets into a data lake, enabling scalable healthcare analytics.
 
 ---
 
@@ -80,13 +55,7 @@ Oct 2021 – Mar 2022
 **UnitedBusiness.in**, Bangalore, India  
 Jan 2019 – Oct 2019  
 
-- Built responsive websites (HTML, CSS, JavaScript, jQuery, PHP)  
-  delivering client-specific solutions  
-
-- Improved SEO (~85%), accessibility, and analytics tracking  
-  with user-consent mechanisms  
-
----
+Built responsive client websites using HTML, CSS, JavaScript, jQuery, and PHP, delivering customized solutions through stakeholder collaboration. Improved SEO performance (~85%), web accessibility, and analytics tracking with user-consent mechanisms.
 
 ## 🎓 Education
 **Master of Science in Computer Science**  
@@ -108,7 +77,7 @@ New Jersey Institute of Technology (NJIT), 2021
 
 ---
 
-## 📌 Projects & References
+## 📌 Notable Projects & References
 - Edge Orchestrator UI (Micro-Frontend Platform)  
   https://github.com/open-edge-platform/orch-ui  
 
@@ -120,15 +89,11 @@ New Jersey Institute of Technology (NJIT), 2021
 
 ---
 
-## 📄 Resume
-📥 Download: `Rahul_Putcha_Resume.pdf`
-
----
-
 ## 🤝 Connect
-- LinkedIn: *Add your link*  
-- GitHub: https://github.com/<your-username>  
-- Email: *your email*  
+- LinkedIn: *https://www.linkedin.com/in/rahul-putcha*  
+- GitHub: https://github.com/RPG-coder  
+- Email (Marketing): https://www.rahulgputcha.com
+- Personal Website: https://www.rahulgputcha.com  
 
 ---
 
